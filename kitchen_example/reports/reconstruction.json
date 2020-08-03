@@ -1,0 +1,37 @@
+{
+    "num_candidate_image_pairs": 1,
+    "reconstructions": [
+        {
+            "bootstrap": {
+                "image_pair": [
+                    "img1.jpg",
+                    "img2.jpg"
+                ],
+                "common_tracks": 362,
+                "two_view_reconstruction": {
+                    "5_point_inliers": 361,
+                    "plane_based_inliers": 46,
+                    "method": "5_point"
+                },
+                "triangulated_points": 362,
+                "decision": "Success",
+                "memory_usage": 155987968
+            },
+            "grow": {
+                "steps": []
+            },
+            "stats": {
+                "points_count": 362,
+                "cameras_count": 2,
+                "observations_count": 724,
+                "average_track_length": 2.0,
+                "average_track_length_notwo": -1
+            }
+        }
+    ],
+    "wall_times": {
+        "compute_image_pairs": 0.003278832999058068,
+        "compute_reconstructions": 0.20209408400114626
+    },
+    "not_reconstructed_images": []
+}

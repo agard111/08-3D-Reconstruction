@@ -1,0 +1,16 @@
+{
+    "make": "samsung",
+    "model": "SM-G960U",
+    "width": 4032,
+    "height": 3024,
+    "projection_type": "perspective",
+    "focal_ratio": 0.7222222222222222,
+    "orientation": 1,
+    "capture_time": 1595297596.0,
+    "gps": {
+        "latitude": 37.563559999999995,
+        "longitude": -122.04552097222222,
+        "altitude": 26.5
+    },
+    "camera": "v2 samsung sm-g960u 4032 3024 perspective 0.7222"
+}

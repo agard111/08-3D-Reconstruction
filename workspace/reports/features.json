@@ -1,0 +1,15 @@
+{
+    "wall_time": 0.00023981100093806162,
+    "image_reports": [
+        {
+            "image": "img1.jpg",
+            "num_features": 4653,
+            "wall_time": 1.2462196359992959
+        },
+        {
+            "image": "img2.jpg",
+            "num_features": 4596,
+            "wall_time": 1.2291136780004308
+        }
+    ]
+}

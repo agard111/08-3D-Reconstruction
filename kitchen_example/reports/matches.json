@@ -1,0 +1,15 @@
+{
+    "wall_time": 0.543465988997923,
+    "num_pairs": 1,
+    "pairs": [
+        [
+            "img2.jpg",
+            "img1.jpg"
+        ]
+    ],
+    "num_pairs_distance": 0,
+    "num_pairs_time": 0,
+    "num_pairs_order": 0,
+    "num_pairs_bow": 0,
+    "num_pairs_vlad": 0
+}
